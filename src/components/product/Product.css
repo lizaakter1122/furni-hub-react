@@ -1,0 +1,19 @@
+.furniture-card {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px,
+    rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+  width: 100%;
+  text-align: center;
+  padding: 16px;
+
+  border-radius: 8px;
+}
+
+.product-header{
+  font-size: 54px;
+  color: #1E2738;
+  font-weight: 500;
+  padding: 16px 0;
+  text-align: center;
+  margin: 16px 0;
+  text-transform: uppercase;
+}

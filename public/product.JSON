@@ -1,0 +1,39 @@
+[
+    {
+      "id": "P001",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99,
+      "description": "A powerful laptop with high-resolution display and fast processor.",
+      "in_stock": true,
+      "image": "laptop.jpg"
+    },
+    {
+      "id": "P002",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 699.99,
+      "description": "A sleek and advanced smartphone with a large screen and dual camera.",
+      "in_stock": true,
+      "image": "smartphone.jpg"
+    },
+    {
+      "id": "P003",
+      "name": "Wireless Headphones",
+      "category": "Electronics",
+      "price": 149.99,
+      "description": "High-quality wireless headphones with noise cancellation technology.",
+      "in_stock": false,
+      "image": "headphones.jpg"
+    },
+    {
+      "id": "P004",
+      "name": "Leather Wallet",
+      "category": "Fashion",
+      "price": 49.99,
+      "description": "A stylish leather wallet with multiple compartments for cards and cash.",
+      "in_stock": true,
+      "image": "wallet.jpg"
+    }
+  ]
+  

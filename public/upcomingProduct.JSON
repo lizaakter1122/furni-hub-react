@@ -1,0 +1,30 @@
+[
+    {
+      "id": "P005",
+      "name": "Smartwatch 2.0",
+      "category": "Electronics",
+      "price": 299.99,
+      "description": "The next generation smartwatch with enhanced features and longer battery life.",
+      "launch_date": "2024-07-15",
+      "image": "smartwatch_2.jpg"
+    },
+    {
+      "id": "P006",
+      "name": "Home Gym Set",
+      "category": "Fitness",
+      "price": 899.99,
+      "description": "A complete home gym set for all your fitness needs, including weights, bench, and cardio equipment.",
+      "launch_date": "2024-08-10",
+      "image": "home_gym.jpg"
+    },
+    {
+      "id": "P007",
+      "name": "Organic Skincare Kit",
+      "category": "Beauty",
+      "price": 49.99,
+      "description": "A luxurious skincare kit made from organic ingredients for a radiant and healthy complexion.",
+      "launch_date": "2024-09-05",
+      "image": "skincare_kit.jpg"
+    }
+  ]
+  
